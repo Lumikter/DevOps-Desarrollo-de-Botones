@@ -1,1 +1,3 @@
 Desarrollo Primario Boton Aprobar
+
+VER 1.0 Solucion de Bug: Al aprobar la 3 orden de manera consecutiva el boton se desactivaba, solucion al codigo del loop.
