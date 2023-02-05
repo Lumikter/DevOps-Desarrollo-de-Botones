@@ -1,3 +1,5 @@
 Desarrollo Primario Boton Rechazar
 
 VER.1.1 - Solucion a la eliminacion de la orden, ahora la orden se reapertura para su modificacion
+
+VER.1.2 - Cambio en el color de Amarillo a Rojo para una mejor visualizacion.
